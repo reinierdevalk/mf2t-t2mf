@@ -1,4 +1,6 @@
-		MF2T/T2MF
+(this is the original README, downloaded from http://matsp888.no-ip.org/~mats/software/winunix/midi/mf2t/)
+
+MF2T/T2MF
 
 Two programs to manipulate standard midifiles.
 
