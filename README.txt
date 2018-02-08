@@ -1,4 +1,5 @@
-(this is the original README, downloaded from http://matsp888.no-ip.org/~mats/software/winunix/midi/mf2t/)
+(original README (this document) downloaded from http://matsp888.no-ip.org/~mats/software/winunix/midi/mf2t/ 
+Unix executables downloadeded from http://mac.softpedia.com/get/Developer-Tools/MacMIDIt2mf.shtml)
 
 MF2T/T2MF
 
