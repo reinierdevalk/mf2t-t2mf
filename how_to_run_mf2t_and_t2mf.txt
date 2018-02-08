@@ -1,9 +1,0 @@
-mf2t and t2mf are Unix executables downloaded from http://mac.softpedia.com/get/Developer-Tools/MacMIDIt2mf.shtml 
-
-After cd-ing into the folder that holds them, they can be run as follows.   
-
-MIDI to text:
-$ ./mf2t midifile.mid textfile.txt
-
-Text to MIDI:
-$ ./t2mf textfile.txt midifile.mid
